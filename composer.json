@@ -1,0 +1,15 @@
+{
+    "name": "hdcms/Worker",
+    "authors": [
+        {
+            "name": "aa",
+            "email": "aa@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "hdcms\\": "src/lib/"
+        }
+    }
+}
